@@ -2,4 +2,8 @@
 ### Outline
 * [Random-Graph(Real Time)](Random-graph(real-time)/README.md)
 
-### Envirnoment
+### Environment
+* LabVIEW 2014
+
+### Reference
+* LabVIEW 360
