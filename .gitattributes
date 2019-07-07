@@ -1,0 +1,4 @@
+# .gitattributes file for labview examples or projects
+
+# Set language for files
+*.vi linguist-language=LabVIEW
