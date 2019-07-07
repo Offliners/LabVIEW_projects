@@ -1,2 +1,2 @@
-# LabVIEW_projects
-LabVIEW projects
+# LabVIEW Projects
+
