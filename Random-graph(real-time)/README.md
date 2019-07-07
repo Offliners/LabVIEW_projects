@@ -1,6 +1,6 @@
 # Random-graph(real-time)
 ### Front Panel
-![Random-graph(real-time)](https://github.com/Offliners/LabVIEW_projects/blob/master/Random-graph(real-time)/Random-Graph(Real%20Time).gif)
+![Front Panel](https://github.com/Offliners/LabVIEW_projects/blob/master/Random-graph(real-time)/Random-Graph(Real%20Time).gif)
 
 ### Block Diagram
-! []
+![Block Diagram]https://github.com/Offliners/LabVIEW_projects/blob/master/Random-graph(real-time)/Random-Graph(real-time).vi%20Block%20Diagram.png
