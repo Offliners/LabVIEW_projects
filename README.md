@@ -1,6 +1,7 @@
 # LabVIEW Projects
 ### Outline
 * [Random-Graph(Real Time)](Random-graph(real-time)/README.md)
+* [Factorial](Factorial/README.md)
 
 ### Environment
 * NI LabVIEW 2014 (32-bit)
