@@ -5,6 +5,7 @@
 * [Traffic-Light](Traffic-Light/README.md)
 * [Draw-Circle](Draw-Circle/README.md)
 * [Simple-Calculator](Simple-Calculator/README.md)
+* [Guess-Number](Guess-Number/README.md)
 
 ### Environment
 * NI LabVIEW 2014 (32-bit)
