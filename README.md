@@ -7,6 +7,7 @@
 * [Simple-Calculator](Simple-Calculator/README.md)
 * [Guess-Number](Guess-Number/README.md)
 * [Quadratic-Root-Calculation](Quadratic-Root-Calculation/README.md)
+* [Seven-Segment-Display](Seven-Segment-Display/README.md)
 
 ### Environment
 * NI LabVIEW 2014 (32-bit)
