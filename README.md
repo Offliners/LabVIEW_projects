@@ -9,6 +9,7 @@
 * [Quadratic-Root-Calculation](Quadratic-Root-Calculation/README.md)
 * [Seven-Segment-Display](Seven-Segment-Display/README.md)
 * [Tab-Control](Tab-Control/README.md)
+* [Sort-Number](Sort-Number/README.md)
 
 ### Environment
 * NI LabVIEW 2014 (32-bit)
