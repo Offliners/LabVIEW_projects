@@ -8,12 +8,13 @@
 * [Guess-Number](Guess-Number/README.md)
 * [Quadratic-Root-Calculation](Quadratic-Root-Calculation/README.md)
 * [Seven-Segment-Display](Seven-Segment-Display/README.md)
-* [Tab-Control](Tab-Control/README.md)
 * [Sort-Number](Sort-Number/README.md)
 * [Seven-Segment-Display-2](Seven-Segment-Display-2/README.md)
 * [Decimal-Converter](Decimal-Converter/README.md)
 
 ### Medium
+* [Tab-Control](Tab-Control/README.md)
+* [ScreenShot](ScreenShot/README.md)
 
 ## Environment
 * NI LabVIEW 2014 (32-bit)
