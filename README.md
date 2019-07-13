@@ -1,6 +1,5 @@
 # LabVIEW Projects
-### Outline
-#### Easy
+### Easy
 * [Random-Graph(Real Time)](Random-graph(real-time)/README.md)
 * [Factorial](Factorial/README.md)
 * [Traffic-Light](Traffic-Light/README.md)
@@ -13,7 +12,7 @@
 * [Sort-Number](Sort-Number/README.md)
 * [Seven-Segment-Display-2](Seven-Segment-Display-2/README.md)
 
-#### Medium
+### Medium
 
 ### Environment
 * NI LabVIEW 2014 (32-bit)
