@@ -11,6 +11,7 @@
 * [Tab-Control](Tab-Control/README.md)
 * [Sort-Number](Sort-Number/README.md)
 * [Seven-Segment-Display-2](Seven-Segment-Display-2/README.md)
+* [Decimal-Converter](Decimal-Converter/README.md)
 
 ### Medium
 
