@@ -17,6 +17,7 @@
 ### Medium
 * [Tab-Control](Tab-Control/README.md)
 * [ScreenShot](ScreenShot/README.md)
+* [Clock](Clock/README.md)
 
 ### High Level
 
