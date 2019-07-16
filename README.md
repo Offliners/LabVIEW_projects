@@ -12,12 +12,12 @@
 * [Seven-Segment-Display-2](Seven-Segment-Display-2/README.md)
 * [Decimal-Converter](Decimal-Converter/README.md)
 * [Multiplication-Table](Multiplication-Table/README.md)
-* [BMI](BMI)
+* [BMI](BMI/README.md)
+* [Clock](Clock/README.md)
 
 ### Medium
 * [Tab-Control](Tab-Control/README.md)
 * [ScreenShot](ScreenShot/README.md)
-* [Clock](Clock/README.md)
 
 ### High Level
 
