@@ -23,7 +23,7 @@
 ### High Level
 
 ### LabVIEW Fast Coding Challenge
- * [Questions](Questions/README.md)
+ * [Questions](Questions/)
  * [1_Sorting]
  * [2_Calculate according to Expression]
  * [3_Extract Numbers]
