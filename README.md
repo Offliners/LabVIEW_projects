@@ -22,7 +22,7 @@
 
 ### High Level
 
-### LabVIEW Fast Coding Challenge
+### LabVIEW Fast Coding Challenge (Provided by JDLin)
  * [Questions](Questions/)
  * [1_Sorting]
  * [2_Calculate according to Expression](LabVIEW-Fast-Coding-Challenge/Question2/README.md)
