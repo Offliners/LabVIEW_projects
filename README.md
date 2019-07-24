@@ -22,5 +22,20 @@
 
 ### High Level
 
+### Challenge
+#### Questions
+ * [Questions]
+ 
+#### Solution
+ * [1_Sorting]
+ * [2_Calculate according to Expression]
+ * [3_Extract Numbers]
+ * [4_Select Elements from Array]
+ * [5_Difference]
+ * [6_Array Transform]
+ * [7_Time]
+ * [8_Calculate Y]
+ * [9_Calculate output]
+ 
 ## Environment
 * NI LabVIEW 2014 (32-bit)
