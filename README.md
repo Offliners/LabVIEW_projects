@@ -23,7 +23,6 @@
 ### High Level
 
 ### Challenge
-#### Questions
  * [Questions]
  
 #### Solution
