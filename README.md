@@ -25,7 +25,7 @@
 ### LabVIEW Fast Coding Challenge
  * [Questions](Questions/)
  * [1_Sorting]
- * [2_Calculate according to Expression]
+ * [2_Calculate according to Expression](LabVIEW-Fast-Coding-Challenge/README.md)
  * [3_Extract Numbers]
  * [4_Select Elements from Array]
  * [5_Difference]
