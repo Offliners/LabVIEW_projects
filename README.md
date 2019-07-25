@@ -26,13 +26,13 @@
  * [Questions and Judgment Download](LabVIEW-Fast-Coding-Challenge/Final_2016_LV86.zip)
  * [1_Sorting](LabVIEW-Fast-Coding-Challenge/Question1/README.md)
  * [2_Calculate according to Expression](LabVIEW-Fast-Coding-Challenge/Question2/README.md)
- * [3_Extract Numbers]
+ * [3_Extract Numbers](LabVIEW-Fast-Coding-Challenge/Question3/README.md)
  * [4_Select Elements from Array](LabVIEW-Fast-Coding-Challenge/Question4/README.md)
  * [5_Difference](LabVIEW-Fast-Coding-Challenge/Question5/README.md)
- * [6_Array Transform]
+ * [6_Array Transform](LabVIEW-Fast-Coding-Challenge/Question6/README.md)
  * [7_Time](LabVIEW-Fast-Coding-Challenge/Question7/README.md)
- * [8_Calculate Y]
- * [9_Calculate output]
+ * [8_Calculate Y](LabVIEW-Fast-Coding-Challenge/Question8/README.md)
+ * [9_Calculate output](LabVIEW-Fast-Coding-Challenge/Question9/README.md)
  
 ## Environment
 * NI LabVIEW 2014 (32-bit)
