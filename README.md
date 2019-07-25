@@ -1,6 +1,6 @@
 # LabVIEW Projects
 ### Easy
-* [Random-Graph(Real Time)](Random-graph(real-time)/README.md)
+* [Random-Graph(Real Time)](Easy/Random-graph(real-time)/README.md)
 * [Factorial](Factorial/README.md)
 * [Traffic-Light](Traffic-Light/README.md)
 * [Draw-Circle](Draw-Circle/README.md)
