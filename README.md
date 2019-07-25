@@ -36,3 +36,4 @@
  
 ## Environment
 * NI LabVIEW 2014 (32-bit)
+* NI DAQmx 14.5.1
