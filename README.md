@@ -33,6 +33,7 @@
  * [7_Time](LabVIEW-Fast-Coding-Challenge/Question7/README.md)
  * [8_Calculate Y](LabVIEW-Fast-Coding-Challenge/Question8/README.md)
  * [9_Calculate output](LabVIEW-Fast-Coding-Challenge/Question9/README.md)
+ * [Result](LabVIEW-Fast-Coding-Challenge/Judge.vi.png)
  
 ## Environment
 * NI LabVIEW 2014 (32-bit)
