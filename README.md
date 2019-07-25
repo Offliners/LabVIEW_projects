@@ -30,7 +30,7 @@
  * [4_Select Elements from Array]
  * [5_Difference]
  * [6_Array Transform]
- * [7_Time]
+ * [7_Time](LabVIEW-Fast-Coding-Challenge/Question7/README.md)
  * [8_Calculate Y]
  * [9_Calculate output]
  
