@@ -24,7 +24,7 @@
 
 ### LabVIEW Fast Coding Challenge (Provided by JDLin)
  * [Questions and Judgment Download](LabVIEW-Fast-Coding-Challenge/Final_2016_LV86.zip)
- * [1_Sorting]
+ * [1_Sorting](LabVIEW-Fast-Coding-Challenge/Question1/README.md)
  * [2_Calculate according to Expression](LabVIEW-Fast-Coding-Challenge/Question2/README.md)
  * [3_Extract Numbers]
  * [4_Select Elements from Array]
