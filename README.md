@@ -14,7 +14,7 @@
 * [Multiplication-Table](Easy/Multiplication-Table/README.md)
 * [BMI](Easy/BMI/README.md)
 * [Clock](Easy/Clock/README.md)
-* [Point-Rounding](Easy/Point-Rounding/README.md)
+* [Point-Truncating](Easy/Point-Truncating/README.md)
 
 ### Medium
 * [Tab-Control](Medium/Tab-Control/README.md)
