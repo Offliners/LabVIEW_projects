@@ -15,6 +15,7 @@
 * [BMI](Easy/BMI/README.md)
 * [Clock](Easy/Clock/README.md)
 * [Point-Truncating](Easy/Point-Truncating/README.md)
+* [Command-Line](Easy/Command-Line/README.md)
 
 ### Medium
 * [Tab-Control](Medium/Tab-Control/README.md)
@@ -22,7 +23,6 @@
 * [Multiplot-Disable](Medium/Multiplot-Disable/README.md)
 * [Calculator](Medium/Calculator/README.md)
 * [LVOOP-Example](Medium/LVOOP-Example/README.md)
-* [LVOOP-Mammal]
 
 ### High Level
 
