@@ -16,6 +16,7 @@
 * [Clock](Easy/Clock/README.md)
 * [Point-Truncating](Easy/Point-Truncating/README.md)
 * [Command-Line](Easy/Command-Line/README.md)
+* [Caesar-Cipher](Easy/Caesar-Cipher/README.md)
 
 ### Medium
 * [Tab-Control](Medium/Tab-Control/README.md)
