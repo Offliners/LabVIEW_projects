@@ -23,10 +23,10 @@
 * [Tab-Control](Medium/Tab-Control/README.md)
 * [ScreenShot](Medium/ScreenShot/README.md)
 * [Multiplot-Disable](Medium/Multiplot-Disable/README.md)
-* [Calculator](Medium/Calculator/README.md)
 * [LVOOP-Example](Medium/LVOOP-Example/README.md)
 
 ### Difficult
+* [Calculator](Medium/Calculator/README.md)
 * [Tic-Tac-Toe](Difficult/Tic-Tac-Toe/README.md)
 
 ### LabVIEW Fast Coding Challenge (Provided by JDLin)
