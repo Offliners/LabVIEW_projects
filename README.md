@@ -45,3 +45,6 @@
 ## Environment
 * NI LabVIEW 2014 (32-bit)
 * NI DAQmx 14.5.1
+
+## Reference
+https://forums.ni.com/t5/Code-and-Documents/ct-p/code-documents?profile.language=zh-TW
