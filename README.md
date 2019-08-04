@@ -21,6 +21,7 @@
 
 ### Medium
 * [Tab-Control](Medium/Tab-Control/README.md)
+* [Tab-Control-With-Password-Protecting](Medium/Tab-Control-With-Password-Protecting/README.md)
 * [ScreenShot](Medium/ScreenShot/README.md)
 * [Multiplot-Disable](Medium/Multiplot-Disable/README.md)
 * [LVOOP-Example](Medium/LVOOP-Example/README.md)
