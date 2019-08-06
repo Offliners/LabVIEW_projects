@@ -25,7 +25,7 @@
 * [ScreenShot](Medium/ScreenShot/README.md)
 * [Multiplot-Disable](Medium/Multiplot-Disable/README.md)
 * [LVOOP-Example](Medium/LVOOP-Example/README.md)
-* [Visual-Studio-dll-Example](Medium/Visual-Studio-dll-Example/README.md)
+* [Visual-Studio-C#-dll-Example](Medium/Visual-Studio-dll-Example/README.md)
 
 ### Difficult
 * [Calculator](Difficult/Calculator/README.md)
