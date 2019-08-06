@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\Class\MyTimerEvent\MyTimerEvent\bin\Debug\MyTimerEvent.dll
+C:\Users\ASUS\Desktop\Class\MyTimerEvent\MyTimerEvent\bin\Debug\MyTimerEvent.pdb
+C:\Users\ASUS\Desktop\Class\MyTimerEvent\MyTimerEvent\obj\Debug\MyTimerEvent.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Class\MyTimerEvent\MyTimerEvent\obj\Debug\MyTimerEvent.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Class\MyTimerEvent\MyTimerEvent\obj\Debug\MyTimerEvent.dll
+C:\Users\ASUS\Desktop\Class\MyTimerEvent\MyTimerEvent\obj\Debug\MyTimerEvent.pdb
