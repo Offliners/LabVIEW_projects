@@ -18,6 +18,7 @@
 * [Command-Line](Easy/Command-Line/README.md)
 * [Caesar-Cipher](Easy/Caesar-Cipher/README.md)
 * [Simple-WaveForm](Easy/Simple-WaveForm/README.md)
+* [Reverse-Factorials](Easy/Reverse-Factorials/README.md)
 
 ### Medium
 * [Tab-Control](Medium/Tab-Control/README.md)
